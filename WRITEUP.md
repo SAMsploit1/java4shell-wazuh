@@ -22,6 +22,6 @@ The alerts describe exposure prerequisites. App-specific reachability and incide
 
 All nine cases passed in Wazuh Logtest on the 4.14.10 manager image, which reported revision rc2. Five controls produced no alerts. The replay uses synthetic inventory to exercise the alert paths and controls. It covers an affected JVM, fixed and unaffected builds, CPU capability absent, a verified mitigation, and missing evidence. It exercises the decision rules with known input. Production inventory accuracy and end-to-end agent ingestion are outside the replay.
 
-[Manager captures and full transcript](https://samsploit1.github.io/posts/java4shell-wazuh.html#manager-results)
+[Manager captures and full transcript](https://samsploit1.github.io/posts/java4shell-wazuh.html)
 
 [Wazuh homepage](https://wazuh.com/?utm_source=ambassadors&utm_medium=referral&utm_campaign=ambassadors+program) · [Wazuh Ambassadors program](https://wazuh.com/ambassadors-program/?utm_source=ambassadors&utm_medium=referral&utm_campaign=ambassadors+program)
